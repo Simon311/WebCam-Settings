@@ -4,3 +4,5 @@ A tiny app that invokes the hidden Windows dialog with camera settings. You can 
 Windows-only, .NET 4.6.2 required. 
 
 [Download](https://github.com/Simon311/WebCam-Settings/blob/master/Download/WebCamSettings.exe?raw=true)
+
+[Other .NET versions](https://github.com/Simon311/WebCam-Settings/releases)
